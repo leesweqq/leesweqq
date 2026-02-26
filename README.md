@@ -1,6 +1,10 @@
 <h3 align="center">🧠 "If it works, it's good code."</h3>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leesweqq)
+![Stars](https://img.shields.io/github/stars/leesweqq?style=for-the-badge)
+
+![Followers](https://img.shields.io/github/followers/leesweqq?style=for-the-badge)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=leesweqq)
 
 
 
